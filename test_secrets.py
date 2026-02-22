@@ -40,5 +40,7 @@ def main():
     print("This file is for testing Microsoft Defender for DevOps secrets protection.")
     print("All credentials in this file are FAKE and for testing purposes only.")
 
+# Test
+
 if __name__ == "__main__":
     main()
